@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "name": "iPhone 15",
+            "price": "$999",
+            "description": "The iPhone 15 features a 6.1-inch Super Retina XDR display, A16 Bionic chip, and an advanced dual-camera system."
+        },
+        {
+            "name": "Samsung TV",
+            "price": "$799",
+            "description": "The Samsung 65-inch QLED TV offers stunning picture quality with Quantum Dot technology and Smart TV capabilities."
+        }
+    ]
+}
